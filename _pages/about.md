@@ -1,10 +1,19 @@
+---
+permalink: /about/
+last_modified_at: 2020-07-01
+toc: true
+tags: [About]
+---
+
+
+
 # Hyunwook Jung
 
 
 
-## Student, Developer
+## Developer
 
-Hi! I'm a student studying at Yonsei University. I have many experiences as a developer such as Frontend Development, Android Development, Backend Development, etc. Additionally I have dealt with Deep Learning using frameworks. Recently I have  participated in projects and conducted research on Computer Vision, my main field of interest.
+Hi! I'm a software developer working at Coupang after graduating Yonsei University. I have many experiences as a developer such as Frontend Development, Android Development, Backend Development, etc. Additionally I have dealt with Deep Learning using frameworks. Recently I have  participated in projects and conducted research on Computer Vision, my main field of interest.
 
 
 
@@ -130,14 +139,6 @@ Django, AWS, Angular. Simple blog developing for study.
 
 
 
-### doughsam.com
-
-###### Developer • 2016 — Feb, 2019
-
-Django + Web Crawler, Yonsei University Course Registration Assistant Service for Mileage Investment
-
-
-
 ### Christmas Tree Decoration
 
 ###### Developer • Nov, 2014 — Dec, 2014
@@ -166,13 +167,13 @@ pytorch
 
 #### Frontend Development
 
-Html, Css, Javascript, AngularJS, Angular, ReactJS, 
+Html, Css, Javascript(Typescript), Angular, ReactJS
 
 
 
 #### Backend Development 
 
-NodeJS, Django, C++
+NodeJS, Django, C++, Java(spring), Flask
 
 
 
